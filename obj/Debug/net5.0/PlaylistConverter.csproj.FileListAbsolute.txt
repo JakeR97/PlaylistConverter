@@ -1,0 +1,15 @@
+/Users/jakereardon/Code/PlaylistConverter/bin/Debug/net5.0/PlaylistConverter.deps.json
+/Users/jakereardon/Code/PlaylistConverter/bin/Debug/net5.0/PlaylistConverter.runtimeconfig.json
+/Users/jakereardon/Code/PlaylistConverter/bin/Debug/net5.0/PlaylistConverter.runtimeconfig.dev.json
+/Users/jakereardon/Code/PlaylistConverter/bin/Debug/net5.0/PlaylistConverter.dll
+/Users/jakereardon/Code/PlaylistConverter/bin/Debug/net5.0/ref/PlaylistConverter.dll
+/Users/jakereardon/Code/PlaylistConverter/bin/Debug/net5.0/PlaylistConverter.pdb
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.csprojAssemblyReference.cache
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.AssemblyInfoInputs.cache
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.AssemblyInfo.cs
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.csproj.CoreCompileInputs.cache
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.dll
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/ref/PlaylistConverter.dll
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.pdb
+/Users/jakereardon/Code/PlaylistConverter/obj/Debug/net5.0/PlaylistConverter.genruntimeconfig.cache
